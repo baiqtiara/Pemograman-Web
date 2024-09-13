@@ -1,0 +1,16 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hideen;
+    background-color: brown;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 14px; 16px;
+    display: block;
+}
